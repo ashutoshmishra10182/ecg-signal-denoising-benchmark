@@ -12,7 +12,7 @@ Evaluated across 5 diverse patient records using a Pan-Tompkins peak detection p
 
 ## Repository Structure
 - `ecg_denoising_benchmark.ipynb`: Complete Python code for data ingestion, noise modeling, filtering, and Pan-Tompkins evaluation.
-- `ECG_Filtering_IEEE_Paper.pdf`: IEEE-formatted two-column manuscript draft.
+- `ECG_Filter_Benchmark.pdf`: IEEE-formatted two-column manuscript draft.
 
 ## Author
-- **Your Name** — B.Tech ECE, Netaji Subhas University of Technology (NSUT), New Delhi
+- **Ashutosh Mishra** — B.Tech ECE, Netaji Subhas University of Technology (NSUT), New Delhi
